@@ -15,7 +15,6 @@
 		4C572D641E08C79F00BCBD99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C572D621E08C79F00BCBD99 /* LaunchScreen.storyboard */; };
 		4C572D6D1E08C94E00BCBD99 /* KeyboardAvoiding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C572D6C1E08C94E00BCBD99 /* KeyboardAvoiding.swift */; };
 		4C572D6F1E08CC6F00BCBD99 /* KeyboardDismissingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C572D6E1E08CC6F00BCBD99 /* KeyboardDismissingView.swift */; };
-		8E5793B4215BA0BD0026E99D /* IHKeyboardAvoiding.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 8E5793B3215BA0BD0026E99D /* IHKeyboardAvoiding.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		4C572D651E08C79F00BCBD99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C572D6C1E08C94E00BCBD99 /* KeyboardAvoiding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardAvoiding.swift; sourceTree = "<group>"; };
 		4C572D6E1E08CC6F00BCBD99 /* KeyboardDismissingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardDismissingView.swift; sourceTree = "<group>"; };
-		8E5793B3215BA0BD0026E99D /* IHKeyboardAvoiding.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; fileEncoding = 4; name = IHKeyboardAvoiding.podspec; path = ../IHKeyboardAvoiding.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +44,6 @@
 		4C572D4D1E08C79E00BCBD99 = {
 			isa = PBXGroup;
 			children = (
-				8E5793B3215BA0BD0026E99D /* IHKeyboardAvoiding.podspec */,
 				4C572D581E08C79F00BCBD99 /* KeyboardAvoiding */,
 				4C572D571E08C79F00BCBD99 /* Products */,
 			);
@@ -146,7 +143,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E5793B4215BA0BD0026E99D /* IHKeyboardAvoiding.podspec in Resources */,
 				4C572D641E08C79F00BCBD99 /* LaunchScreen.storyboard in Resources */,
 				4C291DC41E08E01C00507A53 /* IHKeyboardAvoiding.podspec in Resources */,
 				4C572D611E08C79F00BCBD99 /* Assets.xcassets in Resources */,
